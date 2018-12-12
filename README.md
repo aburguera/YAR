@@ -4,8 +4,8 @@
 
 A basic Raycaster coded in MC68000 assembly language using the EASy68K environment. It is aimed at providing students an example of medium-to-high complexity code.
 
-[Video of game with full specs](https://youtu.be/-s0D5Uo2v7I)
-[Video of game with basic graphics](https://youtu.be/jE3DPqrf9jY)
+* [Video of game with full specs](https://youtu.be/-s0D5Uo2v7I)
+* [Video of game with basic graphics](https://youtu.be/jE3DPqrf9jY)
 
 ## Executing the game
 
