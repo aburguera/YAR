@@ -60,7 +60,7 @@ There are three images within the RES folder: TEXT1.PNG, TEXT2.PNG and TEXT3.PNG
 
 ![TEXT1.PNG](https://github.com/aburguera/YAR/blob/master/RES/TEXT1.PNG)
 ![TEXT2.PNG](https://github.com/aburguera/YAR/blob/master/RES/TEXT2.PNG)
-![TEXT3.PNG](https://github.com/aburguera/YAR/blob/master/RES/TEXT3.PNG
+![TEXT3.PNG](https://github.com/aburguera/YAR/blob/master/RES/TEXT3.PNG)
 
 You can modify them freely as long as the image remains 256 pixels wide. Take into account that only the first row of each image will be used as texture. The remaining rows are unused. In the provided images, rows 1 to 255 are repetitions of row 0 to ease viasualizing the final aspect.
 
