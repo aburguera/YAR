@@ -1,6 +1,6 @@
 # YAR - Yet Another Raycaster
 
-![Yet Another Raycaster](https://github.com/aburguera/YAR/RES/YAR.PNG)
+![Yet Another Raycaster](https://github.com/aburguera/YAR/blob/master/RES/YAR.PNG)
 
 A basic Raycaster coded in MC68000 assembly language using the EASy68K environment. It is aimed at providing students an example of medium-to-high complexity code.
 
@@ -58,9 +58,9 @@ You can either modify the texture data by hand or use the provided image interfa
 
 There are three images within the RES folder: TEXT1.PNG, TEXT2.PNG and TEXT3.PNG.
 
-![TEXT1.PNG](https://github.com/aburguera/YAR/RES/TEXT1.PNG)
-![TEXT2.PNG](https://github.com/aburguera/YAR/RES/TEXT2.PNG)
-![TEXT3.PNG](https://github.com/aburguera/YAR/RES/TEXT3.PNG)
+![TEXT1.PNG](https://github.com/aburguera/YAR/blob/master/RES/TEXT1.PNG)
+![TEXT2.PNG](https://github.com/aburguera/YAR/blob/master/RES/TEXT2.PNG)
+![TEXT3.PNG](https://github.com/aburguera/YAR/blob/master/RES/TEXT3.PNG
 
 You can modify them freely as long as the image remains 256 pixels wide. Take into account that only the first row of each image will be used as texture. The remaining rows are unused. In the provided images, rows 1 to 255 are repetitions of row 0 to ease viasualizing the final aspect.
 
