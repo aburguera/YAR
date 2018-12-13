@@ -68,8 +68,8 @@ PLRFUEY0    EQU     143                     ; FUEL BAR INIT Y
 PLRFUEY1    EQU     157                     ; FUEL BAR FINAL Y
             ENDC
             IFEQ    CASMINIM                ; FUEL BAR POSITION IF NO MINIMAP
-PLRFUEY0    EQU     PLRFUEY0+16             ; FUEL BAR INIT Y
-PLRFUEY1    EQU     PLRTREY0+14             ; FUEL BAR FINAL Y
+PLRFUEY0    EQU     PLROXYY0+16             ; FUEL BAR INIT Y
+PLRFUEY1    EQU     PLROXYY0+16+14          ; FUEL BAR FINAL Y
             ENDC
 PLRARGTI    EQU     50                      ; MAX VALUE FOR ARGH TIMER
 
